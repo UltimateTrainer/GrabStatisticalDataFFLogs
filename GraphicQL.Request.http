@@ -1,0 +1,6 @@
+curl -u 96e368f8-1dab-4180-8824-dfe2851e9c2c -d grant_type=client_credentials https://www.fflogs.com/oauth/token
+curl --header "Authorization: Bearer <access_token>" https://github.com/UltimateTrainer/GrabStatisticalDataFFLogs
+
+type Encounter{
+
+}
